@@ -1,0 +1,22 @@
+{
+  "name": "gatos-electron",
+  "version": "1.0.0",
+  "description": "Gatos Desktop version using Electron - planning to work using gitlab due to the storage size issue ## Electron: https://www.electronjs.org/  We can build a cross-platform desktop apps with JavaScript, HTML, and CSS using Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gatos-powered-by-Aptos/Gatos-Desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gatos-powered-by-Aptos/Gatos-Desktop/issues"
+  },
+  "homepage": "https://github.com/Gatos-powered-by-Aptos/Gatos-Desktop#readme",
+  "devDependencies": {
+    "electron": "^22.2.0"
+  }
+}
